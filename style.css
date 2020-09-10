@@ -1,10 +1,10 @@
-/* .container {
-    display: flex;
-    background-color: #fff;
-    flex-flow: column;
+body {
+  margin: 0px;
+  overflow: scroll;
+  overflow-x: hidden;
 
-  }
- */
+}
+
 
 .first-page {
     background-image: url("./images/Image1.jpg");
@@ -96,9 +96,12 @@
 }
 
 .text_two {
-
-    margin: 20%;
+    
+    position: absolute;
+    top: 40%;
+    left: 35%;
     font-size: 50px;
+    font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 18px;
     color: white;
@@ -123,15 +126,21 @@
   
 #img3_txt {
 
-  display: absolute;
-  color: #fff;
-  margin: 400px;
-  font-weight: lighter;
-  letter-spacing: 15px;
+  position: absolute;
+  top: 310%;
+  left: 35%;
+  font-size: 50px;
+  font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 18px;
+  color: white;
+  text-align: center;
+  
   
 
 }
+
+section_2
 
 .section_2 h1 {
   display: absolute;
