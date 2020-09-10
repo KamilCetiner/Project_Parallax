@@ -1,0 +1,142 @@
+.container {
+    display: flex;
+    background-color: #fff;
+    flex-flow: column;
+
+  }
+
+
+.first-page {
+    background-image: url("./images/Image1.jpg");
+    height: 1130px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.7;
+
+ }
+
+ .parallax {
+    
+
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 18px;
+    background-color: black;
+    
+    color: white;
+    text-align: center;
+    width: 35%;
+    height: 50%;
+    padding: 28px;
+    
+    
+    
+  }
+
+.middle {
+    position: relative;
+    top: 50%;
+    left: 32%;
+
+}
+
+.section_1 {
+   
+    background-color: #fff;
+    margin: 50px auto;
+}
+
+.section_1 h1 {
+  text-align: center;
+  font-size: 45px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.section_1 p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  padding: 10px 130px;
+  line-height: 50px;
+  
+
+}
+
+.second_image {
+  background-image: url("./images/Image2.jpg");
+  position: relative;
+  width: 2500px;
+  height: 1130px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  opacity: 0.7;
+
+
+}
+
+.text_two {
+
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 18px;
+    color: white;
+    text-align: center;
+    
+    
+    
+
+}
+
+.image_2 {
+  
+    position: absolute;
+    left: 35%;
+    top: 50%;
+
+
+
+} 
+
+
+.section_2 {
+  background-image: url("./images/Image3.jpg");
+  position: relative;
+  b
+  width: 2500px;
+  height: 1130px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  opacity: 0.7;
+
+
+
+}
+
+.section_2 h1 {
+  text-align: center;
+  font-size: 45px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.section_2 p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: white
+  ;
+  font-size: 30px;
+  padding: 10px 130px;
+  line-height: 50px;
+}
+
+.section_2 {
+
+  Background-color: darkslategrey;
+}
