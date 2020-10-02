@@ -24,7 +24,7 @@ Project aims to create parallax website.
 
 ## Expected Outcome
 
-![Project 003 Snapshot](Project_003_.png)
+![Project 003 Snapshot](https://github.com/clarusway/clarusway-full-stack-6-20/blob/master/html-css/projects/003-parallax-website/Project_003_.png)
 
 ## Objective
 
